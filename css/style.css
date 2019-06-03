@@ -1131,7 +1131,7 @@ html[xmlns] .slides {
 }
 
 .masonry-overlay {
-	background: rgba(125, 180, 39, 0.6);
+	background: rgba(125, 180, 39, 0.8);
 	position: absolute;
 	top: 0;
 	left: 0;
