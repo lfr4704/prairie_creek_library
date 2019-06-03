@@ -122,7 +122,7 @@ $(document).ready(function () {
 		theme: 'white',
 		placement: '#colio-gallery-wrapper',
 		expandLink: '.colio-link-gallery',
-		scrollOffset: -2000,
+		scrollOffset: -345,
 		onContent: function (content) {
 			// init "flexslider" plugin
 			$('.flexslider', content).flexslider({slideshow: false, animationSpeed: 300});
